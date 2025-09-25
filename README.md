@@ -1,15 +1,19 @@
-<h1>This page is work in progress </h1>
+<h1>⚙️ This page is work in progress </h1>
 <h1>👋 Hi, I'm lfmvit!</h1>
 
 <h2>👨‍💻 Software Development Projects</h2>
 
 <ul>
   <li>
-    <b>Data Structures, Algorithms & Programming Techniques</b><br>
-    <a href="https://github.com/lfmvit/Algorithms-Data-Structures-and-Programming-Techniques">Algorithms-Data-Structures-and-Programming-Techniques</a> (Java, CSS, Shell) <br>
-    <i>Comprehensive Java implementations of classic data structures and algorithms. A solid foundation for high-performance computing.</i>
-  </li>
-  <li>
+  <b>Data Structures, Algorithms & Programming Techniques</b><br>
+  <ul>
+    <li>
+      <a href="https://github.com/lfmvit/Algorithms-Data-Structures-and-Programming-Techniques">Algorithms-Data-Structures-and-Programming-Techniques</a> (Java, CSS, Shell) <br>
+      <i>Comprehensive Java implementations of classic data structures and algorithms. A solid foundation for high-performance computing.</i>
+      </li>
+</li>
+  </ul>
+    <li>
     <b>Full Stack Web Apps & Microservices</b>
     <ul>
       <li>
@@ -23,6 +27,7 @@
       <li>
         <a href="https://github.com/lfmvit/ez-wallet">Ez-Wallet</a> (JavaScript, Docker)<br>
         <i>Digital wallet web app for personal finance, project focused on: design documents and APIs testing.</i>
+      </li>
       </li>
     </ul>
   </li>
