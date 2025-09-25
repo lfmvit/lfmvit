@@ -35,7 +35,7 @@
     <b>Embedded & Systems Programming</b>
     <ul>
       <li>
-        <a href="https://github.com/lfmvit/priority-scheduler-for-c-based-os">Priority Scheduler for C-based OS</a> (C)<br>
+        <a href="https://github.com/lfmvit/priority-scheduler-for-c-based-os">Priority Scheduler for C-based OS</a> <br>
         <i>Multi-queue priority scheduling implementation for an open-source operating system.</i>
       </li>
       <li>
@@ -43,7 +43,7 @@
         <i>Game development for ARM Cortex-M3 microcontroller (LandTiger LPC1768), simulating a Tamagotchi virtual pet.</i>
       </li>
       <li>
-        <a href="https://github.com/lfmvit/Model-Based-Software-Design---One-Pedal-Controller">Model-Based Software Design: One Pedal Controller</a> (HTML, MATLAB)<br>
+        <a href="https://github.com/lfmvit/Model-Based-Software-Design---One-Pedal-Controller">Model-Based Software Design: One Pedal Controller</a> (MATLAB, Simulink, StateFlow, Arduino)<br>
         <i>Model-based approach to develop a one-pedal controller system for embedded automotive use-cases.</i>
       </li>
     </ul>
