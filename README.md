@@ -1,4 +1,4 @@
-<h1>⚙️ This page is work in progress </h1>
+<h4>⚙️ This page is work in progress </h4>
 <h1>👋 Hi, I'm lfmvit!</h1>
 
 <h2>👨‍💻 Software Development Projects</h2>
