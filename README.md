@@ -1,7 +1,7 @@
 <h4>⚙️ This page is work in progress </h4>
 <h1>👋 Hi, I'm lfmvit!</h1>
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>🛠️ Software Development Projects</h2>
 
 <ul>
   <li>
@@ -44,7 +44,7 @@
       </li>
       <li>
         <a href="https://github.com/lfmvit/Model-Based-Software-Design---One-Pedal-Controller">Model-Based Software Design: One Pedal Controller</a> (MATLAB, Simulink, StateFlow, Arduino)<br>
-        <i>Model-based approach to develop a one-pedal controller system for embedded automotive use-cases.</i>
+        <i>Model-based approach, following ISO 26262 standard to develop a one-pedal controller system for embedded automotive use-cases.</i>
       </li>
     </ul>
   </li>
@@ -67,3 +67,11 @@
     </ul>
   </li>
 </ul>
+<h2>👨‍💻 Cybersecurity Related Projects</h2>
+Repos and files will be added soon
+  <ul>
+    <li> SIEM demo with Geolocalizer </li>
+    <li> Security Verification and Testing </li>
+    <li> Antirecoil Scripts for Controller Input Injectors </li>
+  </ul>
+
